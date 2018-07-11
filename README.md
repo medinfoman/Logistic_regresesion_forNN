@@ -1,5 +1,5 @@
 # Logistic_regresesion_forNN
-* This project was make for medical students who are interested in Neural Network & Deep Learning
+* This project was made for medical students who are interested in Neural Network & Deep Learning
 (Of course, anybody who want to learn NN can step on it)
 * This projects task is to classify the images 1(human face) or 0(non-human face)
 * Contains very basic theories of first step of NN
